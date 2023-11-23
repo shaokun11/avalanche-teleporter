@@ -3,7 +3,7 @@ module github.com/ava-labs/teleporter
 go 1.20
 
 require (
-	github.com/ava-labs/avalanchego v1.10.14
+	github.com/ava-labs/avalanchego v1.10.16
 	github.com/supranational/blst v0.3.11 // indirect
 )
 
@@ -22,7 +22,7 @@ require (
 	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/NYTimes/gziphandler v1.1.1 // indirect
 	github.com/VictoriaMetrics/fastcache v1.10.0 // indirect
-	github.com/ava-labs/coreth v0.12.7-rc.1 // indirect
+	github.com/ava-labs/coreth v0.12.9-rc.5 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/btcsuite/btcd/btcec/v2 v2.3.2 // indirect
 	github.com/btcsuite/btcd/btcutil v1.1.3 // indirect
