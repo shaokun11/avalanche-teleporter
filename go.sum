@@ -61,10 +61,10 @@ github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kd
 github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6/go.mod h1:grANhF5doyWs3UAsr3K4I6qtAmlQcZDesFNEHPZAzj8=
 github.com/ava-labs/avalanche-network-runner v1.7.3-0.20231026153158-2931f8a448d9 h1:mTxfmBxmV8GSW0PUt0Qj/Obetzsw0gP6dtoNHaKW2+o=
 github.com/ava-labs/avalanche-network-runner v1.7.3-0.20231026153158-2931f8a448d9/go.mod h1:M9FC+xU4hQU3Botux8V8j574YETeX6tMvxiOmqLfl5c=
-github.com/ava-labs/avalanchego v1.10.14 h1:1jTMrikYD49Pb64ZLUi2z2BnNGLzIGip4fValq6/YfE=
-github.com/ava-labs/avalanchego v1.10.14/go.mod h1:En/ti2xoxQqJuN6t9ne2ogckU9leuZzTjl5mbEsfjTc=
-github.com/ava-labs/coreth v0.12.7-rc.1 h1:fvjow2Jqkq1RNtW4v2Kx0DdTVp+3+fCY421TxpDDRfM=
-github.com/ava-labs/coreth v0.12.7-rc.1/go.mod h1:sNbwitXv4AhLvWpSqy6V8yzkhGFeWBQFD31/xiRDJ5M=
+github.com/ava-labs/avalanchego v1.10.17 h1:Ri01nU5ukKC38ZCkCh3namaMZtJkSuv1X/vC13uJguc=
+github.com/ava-labs/avalanchego v1.10.17/go.mod h1:A6f3877qlq7bePjCU4T0D60bZGecRMCk15pMpJGOb4Q=
+github.com/ava-labs/coreth v0.12.9-rc.9 h1:mvYxABdyPByXwwwIxnTBCiNO23dsE1Kfnd5H106lric=
+github.com/ava-labs/coreth v0.12.9-rc.9/go.mod h1:yrf2vEah4Fgj6sJ4UpHewo4DLolwdpf2bJuLRT80PGw=
 github.com/ava-labs/subnet-evm v0.5.8 h1:CHDCgZFpvKcgAGTiYDOrDXC5My09L8DNct6NsNiEK/U=
 github.com/ava-labs/subnet-evm v0.5.8/go.mod h1:gT3NSswQqopAaJ1UVtB/TiViE6H5Ib684M9FCsy7+D8=
 github.com/aymerick/raymond v2.0.3-0.20180322193309-b565731e1464+incompatible/go.mod h1:osfaiScAUVup+UC9Nfq76eWqDhXlp+4UYaA8uhTBO6g=
